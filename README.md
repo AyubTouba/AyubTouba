@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software engineer
 -----------------
 
-I'm a passionate software engineer with over a decade of experience across various domains. In recent years, I've specialized in high-load fullStack projects, Js frameworks, and platform development
+I'm a passionate software engineer with over a decade of experience across various domains. In recent years, I've specialized in fullStack projects, Js frameworks, and platform development
 
 * 🌍  I'm based in Paris
 * 🖥️  See my portfolio at [Ayoubtouba](http://ayoubtouba.com/)
