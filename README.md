@@ -1,13 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayoub Touba
-===================================================================================================================================
-
-Software engineer
------------------
-
-I'm a passionate software engineer with over a decade of experience across various domains. In recent years, I've specialized in fullStack projects, Js frameworks, and platform development
-
-* 🌍  I'm based in Paris
-* 🖥️  See my portfolio at [Ayoubtouba](http://ayoubtouba.com/)
+* 🖥️  my portfolio [ayoubtouba.com](http://ayoubtouba.com/)
 * ✉️  You can contact me at [ayubtouba@gmail.com](mailto:ayubtouba@gmail.com)
 * 🤝  I'm open to collaborating on Interesting projects
 
